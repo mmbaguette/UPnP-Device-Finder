@@ -1,8 +1,6 @@
 # UPnP Device Finder
  
- **UPnP** is a technology that allows devices in the same network to **advertise their capabilities and presence**, so that users 
- like you and me can find an Apple TV or Chromecast, or connect an XBOX controller without entering the IP address of 
- the device, thanks to a service known as **Simple Service Discovery Protocol** or **SSDP**.
+ **UPnP** is a technology that allows devices in the same network to **advertise their capabilities and presence**, so that users can conenct to an Apple TV or Chromecast easily, without entering needing to enter the IP address of the device, all thanks to a netowrk protocol known as **Simple Service Discovery Protocol (SSDP)**.
  
  This is a **Python** script that sends an `ssdp:all` search request (`M-SEARCH`) using the `socket` library in Python.
  
