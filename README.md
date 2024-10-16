@@ -17,6 +17,6 @@
  The `LOCATION` header in the SSDP response is a URL on your network that should direct you to site where you can find more information about 
  the device, including services.
 
-Example of an SSDP response in Wireshark, a packet analyzer software:
+Example of an SSDP response from a printer in Wireshark, a packet analyzer software:
 
  ![Example of an SSDP response in Wireshark, a packet analyzer software](https://user-images.githubusercontent.com/76597978/159574191-d697144e-0f28-4b42-8cb9-8d1877d41ef2.png)
